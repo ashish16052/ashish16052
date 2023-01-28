@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React and Backend Development**
 
-- 📝 I regularly write articles on [https://ashish-blog-io.herokuapp.com/](https://ashish-blog-io.herokuapp.com/)
+- 📝 I regularly write articles on [https://twitter.com/asheeesh_](twitter)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **ashishmohite16052@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE7h0ZZM0w/P8pcnQ9VG8z_Xl6Cfvc7Uw/view?utm_content=DAE7h0ZZM0w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE7h0ZZM0w/P8pcnQ9VG8z_Xl6Cfvc7Uw/view?utm_content=DAE7h0ZZM0w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pbqWetDRrejftNXiY0BTmmset2KoIz1N/view](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
