@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://ashish-mohite.web.app/](https://ashish-mohite.web.app/)
+- 👨‍💻 All of my projects are available at [http://www.ashishmohite.com](www.ashishnohite.com)
 
 - 💬 Ask me about **Development**
 
