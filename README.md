@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React and Backend Development**
 
-- 👨‍💻 All of my projects are available at [http://www.ashishmohite.com](http://www.ashishmohite.com)
+- 👨‍💻 All of my projects are available at [www.ashishmohite.com](http://www.ashishmohite.com)
 
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **ashishmohite16052@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pbqWetDRrejftNXiY0BTmmset2KoIz1N/view](https://drive.google.com/file/d/1pbqWetDRrejftNXiY0BTmmset2KoIz1N/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pbqWetDRrejftNXiY0BTmmset2KoIz1N/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
