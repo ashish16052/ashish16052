@@ -33,12 +33,12 @@
 
 <pre>
  
-┌─ ashishctl ───────────────┐
+┌─ ashish ──────────────────┐
 │ ~/.ashishrc loaded        │
 ├───────────────────────────┤
 │ theme      minimal        │
-│ editor     vscode         │
-│ stack      js + coffee    │
+│ editor     vim            │
+│ stack      py + coffee    │
 │ mode       build          │
 ├───────────────────────────┤
 │ config  [███████░░░] ok   │
